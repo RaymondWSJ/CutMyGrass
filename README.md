@@ -2,7 +2,7 @@
 我的拔草日记  
 This is a web app by Python and Javascript  
 The function is to set up the target and to achieve it  
-Proboblity is to use MySQL as database.  
+Proboblity is to use MySQL/MongoDB as database.  
 
 I prefer to make it more like a game and the price is the one you set up by yourself
 
