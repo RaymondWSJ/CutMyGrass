@@ -1,5 +1,5 @@
 # CutMyGrass
-<b>我的拔草日记</b><br/>
+<b>我的拔草日记 || 青青草原我最棒</b><br/>
 This is a web app by Python and Javascript<br/>
 The function is to set up the target and to achieve it<br/>
 Proboblity is to use MySQL/MongoDB as database<br/>
