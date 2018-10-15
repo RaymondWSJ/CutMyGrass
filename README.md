@@ -10,6 +10,6 @@ The current idea is<br/>
 1.Use tomato clock to check the goal<br/>
 2.Can easily get the product information from different website, without typing it by yourself通过爬虫<br/>
 <hr>
-Database<br/>
+<b>Database<b><br/>
 tables:
 <hr>
