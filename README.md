@@ -9,6 +9,7 @@ I prefer to make it more like a game and the price is the one you set up by your
 The current idea is<br/>
 1.Use tomato clock to check the goal<br/>
 2.Can easily get the product information from different website, without typing it by yourself通过爬虫<br/>
-<br/>
+<hr>
 Database<br/>
 tables:
+<hr>
